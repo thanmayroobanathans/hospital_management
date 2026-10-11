@@ -1,0 +1,4 @@
+Medicine ID,Name,Use,Stock,Cost Per Unit,Expiry Date,Company name
+M001,Paracetamol,Fever,50,5,2027-06-01,Cipla
+M002,Aspirin,Pain,6,3,2026-10-25,Bayer
+M003,Cough Syrup,Cough,12,40,2026-09-01,Cipla

@@ -1,0 +1,4 @@
+Patient ID,Name,Age,Gender,Phone,Disease,In Patient,Date & Time,Blood Group,Weight,Height,BP,Temperature,Doctor ID
+P001,John Doe,30,Male,9876543210,Flu,Yes,01-10-2026 | 10:00:00 AM,O+,70kg,170cm,120/80,98,D001
+P002,Mary Jane,45,Female,9876543211,Flu,No,02-10-2026 | 11:30:00 AM,A+,60kg,160cm,118/76,99,D002
+P003,Raj Kumar,60,Male,9876543212,Diabetes,No,03-10-2026 | 09:15:00 AM,O+,80kg,175cm,130/85,98,D001
